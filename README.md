@@ -3,10 +3,6 @@
 </h1>
 
 
-<h2 align="center">𝐒𝐲𝐬𝐭𝐞𝐦.𝐨𝐮𝐭.𝐩𝐫𝐢𝐧𝐭𝐥𝐧(𝐂𝐫𝐞𝐚𝐭𝐢𝐯𝐢𝐭𝐲 + 𝐋𝐨𝐠𝐢𝐜); -> #𝐃𝐢𝐠𝐢𝐭𝐚𝐥𝐄𝐱𝐜𝐞𝐥𝐥𝐞𝐧𝐜𝐞</h2>
-
-
-
 <h2 align="center"> cont</h2>
 <div align="center">
   <a href="mailto:benaddiiyad@gmail.com">
