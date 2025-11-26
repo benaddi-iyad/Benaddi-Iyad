@@ -24,15 +24,15 @@
 
 
 
-<h2 align="center"> cont</h2>
+<h1 align="center"> ᴍʏ ᴜɴɪᴠᴇʀꜱᴇ </h1>
 <div align="center">
   <a href="mailto:benaddiiyad@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/benaddiiyad@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
 
 
-<h2 align="center">Languages-Framworks-Tools</h2>
+<h1 align="center"> ʟᴀɴɢᴜᴀɢᴇꜱ ꜰʀᴀᴍᴡᴏʀᴋꜱ ᴛᴏᴏʟꜱ </h1>
 <div align="center">
   <a href="skiilcons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,"/>
@@ -42,7 +42,7 @@
 
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h1>ᴍʏ ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴꜱ</h1>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
