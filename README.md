@@ -2,6 +2,21 @@
   <img src="https://readme-typing-svg.demolab.com?font=Exo+2&size=24&duration=4000&pause=1000&color=C6CA1C&center=true&vCenter=true&width=300&lines=print(%22Hello+World!%22);%24+USER+%3A+Benaddi+Iyad;%24+ROLE+%3A+Building+a+System;%24+STATUS+%3A+Online+99%25"/>
 </h1>
 
+<img align="right" alt="coding" with="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
+
+- 🔭 I’m currently working on Store BlackWariorrs
+
+- 🌱 I’m currently learning **C#**
+
+- 🤝 I’m looking for help with **Software Engineering**
+
+- 👨‍💻 All of my projects are available at 
+
+- 💬 Ask me about **Html, Css, JavaScript**
+
+- 📫 How to reach me **benaddiiyad@gmail.com**
+
+
 
 <h2 align="center"> cont</h2>
 <div align="center">
