@@ -5,7 +5,7 @@
 
 <h1> ᴍʏ ʟᴇxɪᴄᴏɴ </h1>
 
-<img align="right" alt="coding" width="530" height="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="coding" width="530" height="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzJyMTRwbXB0M3JtcGpjenp3NHdjejhrYmRucGxzOTVkd3hzMTdobSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gUnRTJ0zqHJRe/giphy.gif">
 
 - > 𝐒𝐲𝐬𝐭𝐞𝐦 𝐁𝐨𝐨𝐭𝐢𝐧𝐠...
   
@@ -16,8 +16,6 @@
 - > 𝐋𝐄𝐀𝐑𝐍𝐈𝐍𝐆_𝐋𝐎𝐎𝐏.𝐬𝐭𝐚𝐫𝐭()
 
 - > 𝐏𝐫𝐨𝐠𝐫𝐞𝐬𝐬 : [▮▮▮▮▮▮▮▯▯▯] 70%
-
-- > 𝐏𝐚𝐭𝐜𝐡𝐢𝐧...
   
 - > 𝐖𝐚𝐫𝐧𝐢𝐧𝐠 : 𝐟𝐞𝐚𝐫_𝐨𝐟_𝐟𝐚𝐢𝐥𝐮𝐫𝐞 𝐧𝐨𝐭 𝐝𝐞𝐟𝐢𝐧𝐞𝐝
 
