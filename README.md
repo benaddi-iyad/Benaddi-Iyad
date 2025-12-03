@@ -30,7 +30,38 @@
   <a href="mailto:benaddiiyad@gmail.com">
     <img src="https://img.shields.io/badge/benaddiiyad@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
+
+  <a>
+  <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
+  </a>
+
+  <a>
+  <img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white">
+  </a>
+
+  <a>
+  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white">
+  </a>
+
+  <a>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
+  </a>
+
+  <a>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+
+  <a>
+  <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white">
+  </a>
+
+  <a>
+  <img src="https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=W3Schools&logoColor=white">
+  </a>
 </div>
+
+
+
 
 
 <h1> ʟᴀɴɢᴜᴀɢᴇꜱ ꜰʀᴀᴍᴡᴏʀᴋꜱ ᴛᴏᴏʟꜱ </h1>
