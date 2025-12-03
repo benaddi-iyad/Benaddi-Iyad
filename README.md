@@ -92,3 +92,78 @@
 <h2 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=&size=24&duration=4000&pause=1000&color=2B9C1D&center=true&vCenter=true&width=640&height=100&lines=%24%7B%F0%9D%92%9C%F0%9D%90%BC%7D+%C3%97+%7B%F0%9D%92%9E%F0%9D%90%BF%F0%9D%92%AA%F0%9D%92%B0%F0%9D%92%9F%7D+%C3%97+%7B%F0%9D%90%B5%F0%9D%90%BF%F0%9D%92%AA%F0%9D%92%9E%F0%9D%92%A6%F0%9D%92%9E%F0%9D%90%BB%F0%9D%92%9C%F0%9D%90%BC%F0%9D%92%A9%7D%3D+%E2%88%9E+%F0%9D%92%AE%F0%9D%92%AA%F0%9D%90%BF%F0%9D%92%B0%F0%9D%92%AF%F0%9D%90%BC%F0%9D%92%AA%F0%9D%92%A9"/>
 </h2>
+
+
+
+
+
+
+
+## 💡 Tech Stack
+
+</div>
+
+<table align="center">
+  <tr>
+    <td align="center" width="200">
+      <strong>ANI JAY LK HHHHH</strong>
+    </td>
+    <td align="center" width="300">
+      <strong>AI / Machine Learning</strong>
+    </td>
+    <td align="center" width="400">
+      React • Next.js • TypeScript • JavaScript • HTML • CSS
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="200">
+      <strong>🎨 Frontend</strong>
+    </td>
+    <td align="center" width="300">
+      <strong>AI / Machine Learning</strong>
+    </td>
+    <td align="center" width="400">
+      React • Next.js • TypeScript • JavaScript • HTML • CSS
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="200">
+      <strong>🎨 Frontend</strong>
+    </td>
+    <td align="center" width="300">
+      <strong>AI / Machine Learning</strong>
+    </td>
+    <td align="center" width="400">
+      React • Next.js • TypeScript • JavaScript • HTML • CSS
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="200">
+      <strong>🎨 Frontend</strong>
+    </td>
+    <td align="center" width="300">
+      <strong>AI / Machine Learning</strong>
+    </td>
+    <td align="center" width="400">
+      React • Next.js • TypeScript • JavaScript • HTML • CSS
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="200">
+      <strong>🎨 Frontend</strong>
+    </td>
+    <td align="center" width="300">
+      <strong>AI / Machine Learning</strong>
+    </td>
+    <td align="center" width="400">
+      React • Next.js • TypeScript • JavaScript • HTML • CSS
+    </td>
+  </tr>
+    
+    
+  </tr>
+</table>
