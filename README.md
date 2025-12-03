@@ -112,7 +112,7 @@
       <strong>AI / Machine Learning</strong>
     </td>
     <td align="center" width="400">
-      React • Next.js • TypeScript • JavaScript • HTML • CSS
+      HTML • CSS
     </td>
   </tr>
 
@@ -124,7 +124,7 @@
       <strong>AI / Machine Learning</strong>
     </td>
     <td align="center" width="400">
-      React • Next.js • TypeScript • JavaScript • HTML • CSS
+      HTML • CSS
     </td>
   </tr>
 
@@ -136,7 +136,7 @@
       <strong>AI / Machine Learning</strong>
     </td>
     <td align="center" width="400">
-      React • Next.js • TypeScript • JavaScript • HTML • CSS
+      HTML • CSS
     </td>
   </tr>
 
@@ -148,7 +148,7 @@
       <strong>AI / Machine Learning</strong>
     </td>
     <td align="center" width="400">
-      React • Next.js • TypeScript • JavaScript • HTML • CSS
+      HTML • CSS
     </td>
   </tr>
 
@@ -160,7 +160,7 @@
       <strong>AI / Machine Learning</strong>
     </td>
     <td align="center" width="400">
-      React • Next.js • TypeScript • JavaScript • HTML • CSS
+      HTML • CSS
     </td>
   </tr>
     
