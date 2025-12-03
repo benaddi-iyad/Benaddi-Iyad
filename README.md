@@ -95,75 +95,14 @@
 
 
 
-
-
-
-
 ## 💡 Tech Stack
 
-</div>
+| Topic | Status | Topic | Status | Topic | Status |
+| :--- | :---: | :--- | :---: | :--- | :---: |
+| **Programming** (C, Python, Java...)💻 | ⬜ | **Algorithms & Data Structures** 📊 | ⬜ | **Math for CS** (Discrete, Lin Alg...) 📐 | ⬜ |
+| **Computer Architecture** 🖥️ | ⬜ | **Operating Systems basics** 🧱 | ⬜ | **Databases basics** 🗄️ | ⬜ |
+| **AI / Machine Learning** 🤖 | ⬜ | **Cyber Security** 🛡️ | ⬜ | **Cloud Computing** ☁️ | ⬜ |
+| **Web / Mobile Development** 🌐 | ⬜ | **Compiler Design** ⚙️ | ⬜ | **Distributed Systems** ⚡ | ⬜ |
 
-<table align="center">
-  <tr>
-    <td align="center" width="200">
-      <strong>ANI JAY LK HHHHH</strong>
-    </td>
-    <td align="center" width="300">
-      <strong>AI / Machine Learning</strong>
-    </td>
-    <td align="center" width="400">
-      HTML • CSS
-    </td>
-  </tr>
 
-  <tr>
-    <td align="center" width="200">
-      <strong>🎨 Frontend</strong>
-    </td>
-    <td align="center" width="300">
-      <strong>AI / Machine Learning</strong>
-    </td>
-    <td align="center" width="400">
-      HTML • CSS
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="200">
-      <strong>🎨 Frontend</strong>
-    </td>
-    <td align="center" width="300">
-      <strong>AI / Machine Learning</strong>
-    </td>
-    <td align="center" width="400">
-      HTML • CSS
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="200">
-      <strong>🎨 Frontend</strong>
-    </td>
-    <td align="center" width="300">
-      <strong>AI / Machine Learning</strong>
-    </td>
-    <td align="center" width="400">
-      HTML • CSS
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="200">
-      <strong>🎨 Frontend</strong>
-    </td>
-    <td align="center" width="300">
-      <strong>AI / Machine Learning</strong>
-    </td>
-    <td align="center" width="400">
-      HTML • CSS
-    </td>
-  </tr>
-    
-    
-  </tr>
-</table>
+⬜ ✅ ❌
