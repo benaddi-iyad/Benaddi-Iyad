@@ -90,7 +90,7 @@
 
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=&size=24&duration=4000&pause=1000&color=2B9C1D&center=true&vCenter=true&width=640&height=100&lines=%24%7B%F0%9D%92%9C%F0%9D%90%BC%7D+%C3%97+%7B%F0%9D%92%9E%F0%9D%90%BF%F0%9D%92%AA%F0%9D%92%B0%F0%9D%92%9F%7D+%C3%97+%7B%F0%9D%90%B5%F0%9D%90%BF%F0%9D%92%AA%F0%9D%92%9E%F0%9D%92%A6%F0%9D%92%9E%F0%9D%90%BB%F0%9D%92%9C%F0%9D%90%BC%F0%9D%92%A9%7D%3D+%E2%88%9E+%F0%9D%92%AE%F0%9D%92%AA%F0%9D%90%BF%F0%9D%92%B0%F0%9D%92%AF%F0%9D%90%BC%F0%9D%92%AA%F0%9D%92%A9"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Exo+2&size=24&duration=4000&pause=1000&color=208227&center=true&vCenter=true&width=600&height=60&lines=%EF%BC%84%7B%F0%9D%90%80%F0%9D%90%88%7D+%C3%97+%7B%F0%9D%90%82%F0%9D%90%8B%F0%9D%90%8E%F0%9D%90%94%F0%9D%90%83%7D+%C3%97+%7B%F0%9D%90%81%F0%9D%90%8B%F0%9D%90%8E%F0%9D%90%82%F0%9D%90%8A%F0%9D%90%82%F0%9D%90%87%F0%9D%90%80%F0%9D%90%88%F0%9D%90%8D%7D+%3D+%E2%88%9E%F0%9D%90%92%F0%9D%90%8E%F0%9D%90%8B%F0%9D%90%94%F0%9D%90%93%F0%9D%90%88%F0%9D%90%8E%F0%9D%90%8D"/>
 </h2>
 
 
