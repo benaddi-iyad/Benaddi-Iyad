@@ -36,7 +36,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
+  <img align="left" alt="GIF description" width="430" height="350" src="./Skills_Animation_White.gif">
 </picture>
 <br />
 
@@ -57,11 +57,6 @@
   - > Learning Journey & Tech Blogs
 
 </ul>
-
-  
-
-
-
 
 <br />
 <br clear="both"/>
