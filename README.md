@@ -35,28 +35,28 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="left" alt="GIF description" width="480" height="380" src="./Skills_Animation_White.gif">
+  <img align="left" alt="GIF description" width="380" height="380" src="./Skills_Animation_White.gif">
 </picture>
 
 
 <ul align="right">
  
-  <img align="center" alt="coding" src="https://readme-typing-svg.demolab.com?font=&size=24&duration=4000&pause=1000&color=CA1C0A&center=true&vCenter=true&width=480&lines=HTML%2C+CSS%2C+JavaScript%2C+Git+%26+GitHub">
+  <img align="right" alt="coding" src="https://readme-typing-svg.demolab.com?font=&size=24&duration=4000&pause=1000&color=CA1C0A&center=true&vCenter=true&width=480&lines=HTML%2C+CSS%2C+JavaScript%2C+Git+%26+GitHub">
   
 
-  <img align="center" alt="coding" src="https://readme-typing-svg.demolab.com?font=&size=24&duration=4000&pause=1000&color=1E90FF&center=true&vCenter=true&width=435&lines=VS+Code+%26+Developer+Tools">
+  <img align="right" alt="coding" src="https://readme-typing-svg.demolab.com?font=&size=24&duration=4000&pause=1000&color=1E90FF&center=true&vCenter=true&width=435&lines=VS+Code+%26+Developer+Tools">
 
   
-  <img align="left" alt="coding" src="https://readme-typing-svg.demolab.com?font=&size=24&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&width=435&lines=Python+(Currently+Learning)">
+  <img align="right" alt="coding" src="https://readme-typing-svg.demolab.com?font=&size=24&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&width=435&lines=Python+(Currently+Learning)">
   
 
-  <img align="left" alt="coding" src="https://readme-typing-svg.demolab.com?font=&size=24&duration=4000&pause=1000&color=32CD32&center=true&vCenter=true&width=435&lines=Computer+Science+Fundamentals">
+  <img align="right" alt="coding" src="https://readme-typing-svg.demolab.com?font=&size=24&duration=4000&pause=1000&color=32CD32&center=true&vCenter=true&width=435&lines=Computer+Science+Fundamentals">
 
 
-  <img align="left" alt="coding" src="https://readme-typing-svg.demolab.com?font=&size=24&duration=4000&pause=1000&color=800080&center=true&vCenter=true&width=435&lines=Cyber+Security+Basics">
+  <img align="right" alt="coding" src="https://readme-typing-svg.demolab.com?font=&size=24&duration=4000&pause=1000&color=800080&center=true&vCenter=true&width=435&lines=Cyber+Security+Basics">
 
   
-  <img align="left" alt="coding" src="https://readme-typing-svg.demolab.com?font=&size=24&duration=4000&pause=1000&color=FF8C00&center=true&vCenter=true&width=435&lines=Learning+Journey+%26+Tech+Blogs">
+  <img align="right" alt="coding" src="https://readme-typing-svg.demolab.com?font=&size=24&duration=4000&pause=1000&color=FF8C00&center=true&vCenter=true&width=435&lines=Learning+Journey+%26+Tech+Blogs">
   
 </ul>
 
