@@ -35,39 +35,33 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
+  <img align="left" alt="GIF description" width="480" height="380" src="./Skills_Animation_White.gif">
 </picture>
-<br />
 
-<h3 align="left">Current Learning</h3>
-<ul align="left">
-  <li>Expanding my expertise in Next.js for full-stack development.</li>
-  <li>Deepening my understanding of Python OOP concepts.</li>
-  <li>Enhancing my backend skills with Express and API development.</li>
-  <li>Learning about serverless functions and microservices architecture.</li>
-  <li>Working with SQL and NoSQL databases for efficient data handling.</li>
-  <li>Understanding cloud deployment, domain management, and SSL setup.</li>
-</ul>
+
+<ul align="right">
+ 
+  <img align="center" alt="coding" src="https://readme-typing-svg.demolab.com?font=&size=24&duration=4000&pause=1000&color=CA1C0A&center=true&vCenter=true&width=480&lines=HTML%2C+CSS%2C+JavaScript%2C+Git+%26+GitHub">
   
-<br />
-<br />
-<br />
+
+  <img align="center" alt="coding" src="https://readme-typing-svg.demolab.com?font=&size=24&duration=4000&pause=1000&color=1E90FF&center=true&vCenter=true&width=435&lines=VS+Code+%26+Developer+Tools">
+
+  
+  <img align="left" alt="coding" src="https://readme-typing-svg.demolab.com?font=&size=24&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&width=435&lines=Python+(Currently+Learning)">
+  
+
+  <img align="left" alt="coding" src="https://readme-typing-svg.demolab.com?font=&size=24&duration=4000&pause=1000&color=32CD32&center=true&vCenter=true&width=435&lines=Computer+Science+Fundamentals">
 
 
+  <img align="left" alt="coding" src="https://readme-typing-svg.demolab.com?font=&size=24&duration=4000&pause=1000&color=800080&center=true&vCenter=true&width=435&lines=Cyber+Security+Basics">
 
-<br />
+  
+  <img align="left" alt="coding" src="https://readme-typing-svg.demolab.com?font=&size=24&duration=4000&pause=1000&color=FF8C00&center=true&vCenter=true&width=435&lines=Learning+Journey+%26+Tech+Blogs">
+  
+</ul>
+
+<br /> 
 <br clear="both"/>
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -76,6 +70,17 @@
 <h2 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Exo+2&size=24&duration=4000&pause=1000&color=208227&center=true&vCenter=true&width=600&height=60&lines=%EF%BC%84%7B%F0%9D%90%80%F0%9D%90%88%7D+%C3%97+%7B%F0%9D%90%82%F0%9D%90%8B%F0%9D%90%8E%F0%9D%90%94%F0%9D%90%83%7D+%C3%97+%7B%F0%9D%90%81%F0%9D%90%8B%F0%9D%90%8E%F0%9D%90%82%F0%9D%90%8A%F0%9D%90%82%F0%9D%90%87%F0%9D%90%80%F0%9D%90%88%F0%9D%90%8D%7D+%3D+%E2%88%9E%F0%9D%90%92%F0%9D%90%8E%F0%9D%90%8B%F0%9D%90%94%F0%9D%90%93%F0%9D%90%88%F0%9D%90%8E%F0%9D%90%8D"/>
 </h2>
+
+
+
+
+
+
+
+
+
+
+
 
 
 
