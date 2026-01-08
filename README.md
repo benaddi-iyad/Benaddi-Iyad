@@ -1,11 +1,14 @@
-<h1 align="center"> 
-  <img src="https://readme-typing-svg.demolab.com?font=Exo+2&size=24&duration=4000&pause=1000&color=C6CA1C&center=true&vCenter=true&width=300&lines=print(%22Hello+World!%22);%24+USER+%3A+Benaddi+Iyad;%24+ROLE+%3A+Building+a+System;%24+STATUS+%3A+Online+99%25"/>
-</h1>
+<p align="center">
+  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Benaddi Iyad 👋 I'm a 🚀 Morocco developer 🚀 I ❤️ Happy Hardcore ❤️">
+</p>
 
 
-<h1> ᴍʏ ʟᴇxɪᴄᴏɴ </h1>
 
-<img align="right" alt="coding" width="530" height="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzJyMTRwbXB0M3JtcGpjenp3NHdjejhrYmRucGxzOTVkd3hzMTdobSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gUnRTJ0zqHJRe/giphy.gif">
+<h2 align="center"> 
+  <img src="https://readme-typing-svg.demolab.com?font=Exo+2&size=24&duration=4000&pause=1000&color=C6CA1C&center=true&vCenter=true&width=300&height=25&lines=%F0%9D%91%80%F0%9D%93%8E+%F0%9D%90%BF%F0%9D%91%92%F0%9D%93%8D%F0%9D%92%BE%F0%9D%92%B8%F0%9D%91%9C%F0%9D%93%83"/>
+</h2>
+
+<img align="right" alt="coding" width="530" height="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnZ3ZGYwY2Z6bjA1aDd2M211amlteGYweXkwN2x3dHVvMHZmNHk3OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MC6eSuC3yypCU/giphy.gif">
 
 - > 𝐒𝐲𝐬𝐭𝐞𝐦 𝐁𝐨𝐨𝐭𝐢𝐧𝐠...
   
@@ -25,84 +28,87 @@
 
 
 
-<h1> ᴍʏ ᴜɴɪᴠᴇʀꜱᴇ </h1>
-<div>
-  <a href="mailto:benaddiiyad@gmail.com">
-    <img src="https://img.shields.io/badge/benaddiiyad@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-
-  <a>
-  <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
-  </a>
-
-  <a>
-  <img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white">
-  </a>
-
-  <a href="https://tryhackme.com/p/benaddiiyad">
-  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white">
-  </a>
-
-  <a>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
-  </a>
-
-  <a>
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-
-  <a>
-  <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white">
-  </a>
-
-  <a>
-  <img src="https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=W3Schools&logoColor=white">
-  </a>
-</div>
 
 
 
+<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
+</picture>
+<br />
 
-
-<h1> ʟᴀɴɢᴜᴀɢᴇꜱ ꜰʀᴀᴍᴡᴏʀᴋꜱ ᴛᴏᴏʟꜱ </h1>
-<div>
-  <a href="skiilcons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,"/>
-  </a>
-</div>
-
-
-
-<div align="center">
-  <h1 align="left">ᴍʏ ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴꜱ</h1>
-    <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+<h3 align="left">Current Learning</h3>
+<ul align="left">
+  <li>Expanding my expertise in Next.js for full-stack development.</li>
+  <li>Deepening my understanding of Python OOP concepts.</li>
+  <li>Enhancing my backend skills with Express and API development.</li>
+  <li>Learning about serverless functions and microservices architecture.</li>
+  <li>Working with SQL and NoSQL databases for efficient data handling.</li>
+  <li>Understanding cloud deployment, domain management, and SSL setup.</li>
+</ul>
   
-  <br/><br/><br/>
-</div>
+<br />
+<br />
+<br />
+
+
+
+<br />
+<br clear="both"/>
+
+
+
+
+
+
+
+
+
+
+
 
 
 
 
 <h1>ᴍʏ ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴꜱ</h1>
-
-
-
-
 <h2 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Exo+2&size=24&duration=4000&pause=1000&color=208227&center=true&vCenter=true&width=600&height=60&lines=%EF%BC%84%7B%F0%9D%90%80%F0%9D%90%88%7D+%C3%97+%7B%F0%9D%90%82%F0%9D%90%8B%F0%9D%90%8E%F0%9D%90%94%F0%9D%90%83%7D+%C3%97+%7B%F0%9D%90%81%F0%9D%90%8B%F0%9D%90%8E%F0%9D%90%82%F0%9D%90%8A%F0%9D%90%82%F0%9D%90%87%F0%9D%90%80%F0%9D%90%88%F0%9D%90%8D%7D+%3D+%E2%88%9E%F0%9D%90%92%F0%9D%90%8E%F0%9D%90%8B%F0%9D%90%94%F0%9D%90%93%F0%9D%90%88%F0%9D%90%8E%F0%9D%90%8D"/>
 </h2>
 
 
 
-## 💡 Tech Stack
 
-| Topic | Status | Topic | Status | Topic | Status |
-| :--- | :---: | :--- | :---: | :--- | :---: |
-| **Programming** (C, Python, Java...)💻 | ⬜ | **Algorithms & Data Structures** 📊 | ⬜ | **Math for CS** (Discrete, Lin Alg...) 📐 | ⬜ |
-| **Computer Architecture** 🖥️ | ⬜ | **Operating Systems basics** 🧱 | ⬜ | **Databases basics** 🗄️ | ⬜ |
-| **AI / Machine Learning** 🤖 | ⬜ | **Cyber Security** 🛡️ | ⬜ | **Cloud Computing** ☁️ | ⬜ |
-| **Web / Mobile Development** 🌐 | ⬜ | **Compiler Design** ⚙️ | ⬜ | **Distributed Systems** ⚡ | ⬜ |
+<h2 align="center"> 
+  <img src="https://readme-typing-svg.demolab.com?font=Exo+2&size=24&duration=4000&pause=1000&color=C6CA1C&center=true&vCenter=true&width=300&height=25&lines=%F0%9D%91%80%F0%9D%93%8E+%F0%9D%92%B0%F0%9D%93%83%F0%9D%92%BE%F0%9D%93%8B%F0%9D%91%92%F0%9D%93%87%F0%9D%93%88%F0%9D%91%92">
+</h2>
+<div align="center">
+  
+  [![Contact](https://img.icons8.com/?size=100&id=Iq5AZypojpBD&format=png&color=000000)](mailto:benaddiiyad@gmail.com)
+  [![WebSite](https://img.icons8.com/?size=100&id=zrTptiWiMTtu&format=png&color=000000)](https://benaddiiyad.vercel.app/)
+  [![LinkedIn](https://img.icons8.com/?size=100&id=MR3dZdlA53te&format=png&color=000000)](https://www.linkedin.com/in/benaddi-iyad/)
+  [![Snapchat](https://img.icons8.com/?size=100&id=7VKXHaMW3lGB&format=png&color=000000)]()
+  [![Wechat](https://img.icons8.com/?size=100&id=qXin8dFXNXBX&format=png&color=000000)](mailto:abdelhamidelaali@gmail.com)
+  [![Whatsapp](https://img.icons8.com/?size=100&id=DUEq8l5qTqBE&format=png&color=000000)](mailto:abdelhamidelaali@gmail.com)
+  [![X](https://img.icons8.com/?size=100&id=fJp7hepMryiw&format=png&color=000000)](mailto:abdelhamidelaali@gmail.com)
+  [![Instagram](https://img.icons8.com/?size=100&id=nj0Uj45LGUYh&format=png&color=000000)](https://www.instagram.com/benaddi_iyad/)
+  [![Facebook](https://img.icons8.com/?size=100&id=jZ0kw76QEzJU&format=png&color=000000)](https://www.facebook.com/profile.php?id=61558405467003)  
+  
+</div>
 
 
-⬜ ✅ ❌
+
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
+</p>
+
+
+
+
+<img align="center" alt="coding" width="1280" height="200" src=https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnl1YzVxNmYxZ3hodHQzOGQydjNma29uNXFtOTV5NGh2bXk1cjJ6NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zXmbOaTpbY6mA/giphy.gif>
