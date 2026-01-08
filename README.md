@@ -41,20 +41,20 @@
 <br />
 
 
-<h3 align="left">Current Learning</h3>
-<ul align="left">
+<h3 align="center">Building Strong Foundations</h3>
+<ul align="center">
   
-  - > HTML, CSS, JavaScript, Git & GitHub
+  - > HTML, CSS, JavaScript, Git & GitHub 🧩
   
-  - > VS Code & Developer Tools
+  - > VS Code & Developer Tools 🛠️
     
-  - > Python (Currently Learning)
+  - > Python (Currently Learning) 🐍
     
-  - > Computer Science Fundamentals
+  - > Computer Science Fundamentals 🧠
     
-  - > Cyber Security Basics
+  - > Cyber Security Basics 🛡️
     
-  - > Learning Journey & Tech Blogs
+  - > Learning Journey & Tech Blogs 🚀
 
 </ul>
 
