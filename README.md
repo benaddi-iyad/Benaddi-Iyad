@@ -35,7 +35,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="left" alt="GIF description" width="380" height="380" src="./Skills_Animation_White.gif">
+  <img align="left" alt="GIF description" width="100" height="100" src="./Skills_Animation_White.gif">
 </picture>
 
 
