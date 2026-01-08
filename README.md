@@ -31,37 +31,43 @@
 
 
 
+<!--Languages and Tools Section-->       
 <h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="left" alt="GIF description" width="100" height="100" src="./Skills_Animation_White.gif">
+  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
 </picture>
+<br />
 
 
-<ul align="right">
- 
-  <img align="right" alt="coding" src="https://readme-typing-svg.demolab.com?font=&size=24&duration=4000&pause=1000&color=CA1C0A&center=true&vCenter=true&width=480&lines=HTML%2C+CSS%2C+JavaScript%2C+Git+%26+GitHub">
+<h3 align="left">Current Learning</h3>
+<ul align="left">
   
-
-  <img align="right" alt="coding" src="https://readme-typing-svg.demolab.com?font=&size=24&duration=4000&pause=1000&color=1E90FF&center=true&vCenter=true&width=435&lines=VS+Code+%26+Developer+Tools">
-
+  - > HTML, CSS, JavaScript, Git & GitHub
   
-  <img align="right" alt="coding" src="https://readme-typing-svg.demolab.com?font=&size=24&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&width=435&lines=Python+(Currently+Learning)">
-  
+  - > VS Code & Developer Tools
+    
+  - > Python (Currently Learning)
+    
+  - > Computer Science Fundamentals
+    
+  - > Cyber Security Basics
+    
+  - > Learning Journey & Tech Blogs
 
-  <img align="right" alt="coding" src="https://readme-typing-svg.demolab.com?font=&size=24&duration=4000&pause=1000&color=32CD32&center=true&vCenter=true&width=435&lines=Computer+Science+Fundamentals">
-
-
-  <img align="right" alt="coding" src="https://readme-typing-svg.demolab.com?font=&size=24&duration=4000&pause=1000&color=800080&center=true&vCenter=true&width=435&lines=Cyber+Security+Basics">
-
-  
-  <img align="right" alt="coding" src="https://readme-typing-svg.demolab.com?font=&size=24&duration=4000&pause=1000&color=FF8C00&center=true&vCenter=true&width=435&lines=Learning+Journey+%26+Tech+Blogs">
-  
 </ul>
 
-<br /> 
+  
+
+
+
+
+<br />
 <br clear="both"/>
+
+
+
 
 
 
