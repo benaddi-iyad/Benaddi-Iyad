@@ -73,7 +73,7 @@
 </h2>
 
 <p align="center">
-    <img align="center" alt="coding" width="840" height="280" src="https://readme-daily-quotes.vercel.app/api?author=Zig%20Ziglar&quote=Motivation%20gets%20you%20going%20and%20habit%20gets%20you%20there.%20%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img align="center" alt="coding" width="840" height="280" src="https://readme-daily-quotes.vercel.app/api?author=Zig%20Ziglar&quote=Motivation%20gets%20you%20going%20and%20habit%20gets%20you%20there.%20%20&theme=dark&bg_color=0f4d36&author_color=d4af37&accent_color=d4af37">
 </p>
 
 <!--------------------------------------- My Universe ------------------------------->
