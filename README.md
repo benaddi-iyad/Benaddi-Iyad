@@ -66,7 +66,7 @@
 
 
 
-<!--------------------------------------- Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ ------------------------------->
+<!--------------------------------------- 𝒬𝓊𝓇𝒶𝓃𝒾𝒸 𝒱𝑒𝓇𝓈𝑒 𝑜𝒻 𝒯𝒽𝑒 𝒟𝒶𝓎 ------------------------------->
 
 <h2 align="center"> 
   <img src="https://readme-typing-svg.demolab.com?font=&size=24&duration=4000&pause=1000&color=BDB60D&center=true&vCenter=true&width=435&lines=%F0%9D%92%AC%F0%9D%93%8A%F0%9D%93%87%F0%9D%92%B6%F0%9D%93%83%F0%9D%92%BE%F0%9D%92%B8+%F0%9D%92%B1%F0%9D%91%92%F0%9D%93%87%F0%9D%93%88%F0%9D%91%92+%F0%9D%91%9C%F0%9D%92%BB+%F0%9D%92%AF%F0%9D%92%BD%F0%9D%91%92+%F0%9D%92%9F%F0%9D%92%B6%F0%9D%93%8E">
@@ -82,15 +82,16 @@
   <img src="https://readme-typing-svg.demolab.com?font=&size=24&duration=4000&pause=1000&color=BDB60D&center=true&vCenter=true&width=435&lines=%F0%9D%91%80%F0%9D%93%8E+%F0%9D%92%B0%F0%9D%93%83%F0%9D%92%BE%F0%9D%93%8B%F0%9D%91%92%F0%9D%93%87%F0%9D%93%88%F0%9D%91%92">
 </h2>
 <div align="center">
-  
-  [![Contact](https://img.icons8.com/?size=100&id=Iq5AZypojpBD&format=png&color=000000)](mailto:benaddiiyad@gmail.com)
+
   [![WebSite](https://img.icons8.com/?size=100&id=zrTptiWiMTtu&format=png&color=000000)](https://benaddiiyad.vercel.app/)
   [![LinkedIn](https://img.icons8.com/?size=100&id=MR3dZdlA53te&format=png&color=000000)](https://www.linkedin.com/in/benaddi-iyad/)
-  [![Snapchat](https://img.icons8.com/?size=100&id=D2NqKl85S8Ye&format=png&color=000000)]()
-  [![Wechat](https://img.icons8.com/?size=100&id=qXin8dFXNXBX&format=png&color=000000)]()
+  [![Contact](https://img.icons8.com/?size=100&id=Iq5AZypojpBD&format=png&color=000000)](mailto:benaddiiyad@gmail.com)
   [![Whatsapp](https://img.icons8.com/?size=100&id=DUEq8l5qTqBE&format=png&color=000000)]()
   [![X](https://img.icons8.com/?size=100&id=fJp7hepMryiw&format=png&color=000000)]()
   [![Instagram](https://img.icons8.com/?size=100&id=nj0Uj45LGUYh&format=png&color=000000)](https://www.instagram.com/benaddi_iyad/)
+  [![Discord](https://img.icons8.com/?size=100&id=D2NqKl85S8Ye&format=png&color=000000)]()
+  [![Wechat](https://img.icons8.com/?size=100&id=qXin8dFXNXBX&format=png&color=000000)]()
+  
   
 </div>
 
