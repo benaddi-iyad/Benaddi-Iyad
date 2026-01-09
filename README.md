@@ -86,12 +86,11 @@
   [![Contact](https://img.icons8.com/?size=100&id=Iq5AZypojpBD&format=png&color=000000)](mailto:benaddiiyad@gmail.com)
   [![WebSite](https://img.icons8.com/?size=100&id=zrTptiWiMTtu&format=png&color=000000)](https://benaddiiyad.vercel.app/)
   [![LinkedIn](https://img.icons8.com/?size=100&id=MR3dZdlA53te&format=png&color=000000)](https://www.linkedin.com/in/benaddi-iyad/)
-  [![Snapchat](https://img.icons8.com/?size=100&id=7VKXHaMW3lGB&format=png&color=000000)]()
-  [![Wechat](https://img.icons8.com/?size=100&id=qXin8dFXNXBX&format=png&color=000000)](mailto:abdelhamidelaali@gmail.com)
-  [![Whatsapp](https://img.icons8.com/?size=100&id=DUEq8l5qTqBE&format=png&color=000000)](mailto:abdelhamidelaali@gmail.com)
-  [![X](https://img.icons8.com/?size=100&id=fJp7hepMryiw&format=png&color=000000)](mailto:abdelhamidelaali@gmail.com)
+  [![Snapchat](https://img.icons8.com/?size=100&id=D2NqKl85S8Ye&format=png&color=000000)]()
+  [![Wechat](https://img.icons8.com/?size=100&id=qXin8dFXNXBX&format=png&color=000000)]()
+  [![Whatsapp](https://img.icons8.com/?size=100&id=DUEq8l5qTqBE&format=png&color=000000)]()
+  [![X](https://img.icons8.com/?size=100&id=fJp7hepMryiw&format=png&color=000000)]()
   [![Instagram](https://img.icons8.com/?size=100&id=nj0Uj45LGUYh&format=png&color=000000)](https://www.instagram.com/benaddi_iyad/)
-  [![Facebook](https://img.icons8.com/?size=100&id=jZ0kw76QEzJU&format=png&color=000000)](https://www.facebook.com/profile.php?id=61558405467003)
   
 </div>
 
