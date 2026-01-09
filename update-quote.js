@@ -2,24 +2,23 @@ const fs = require('fs');
 
 async function updateQuote() {
   try {
+    // Kat-akhd l-quotes mn quotes.json
     const quotes = require('./quotes.json');
     const randomIndex = Math.floor(Math.random() * quotes.length);
     const { quote, author } = quotes[randomIndex];
 
+    // Alwan l-Quran: bg=DarkGreen, text=Gold
     const cardDesign = `
-<!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
     <img src="https://readme-daily-quotes.vercel.app/api?author=${encodeURIComponent(author)}&quote=${encodeURIComponent(quote)}&theme=dark&bg_color=0f4d36&author_color=d4af37&accent_color=d4af37">
 </p>
-
-<!--ENDS_HERE_QUOTE_CARD-->
 `;
 
     const readmePath = './README.md';
     let readmeContent = fs.readFileSync(readmePath, 'utf-8');
 
     readmeContent = readmeContent.replace(
-      /<!--STARTS_HERE_QUOTE_CARD-->(.|\n)*<!--ENDS_HERE_QUOTE_CARD-->/,
+      /(.|\n)*/,
       cardDesign
     );
 
