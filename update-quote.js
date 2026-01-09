@@ -6,9 +6,11 @@ async function updateQuote() {
     const randomIndex = Math.floor(Math.random() * quotes.length);
     const { quote, author } = quotes[randomIndex];
 
+    // Bdelt ghir bg_color l "004225" (Quran Green)
+    // Khllit author_color w accent_color kif ma kanu
     const cardDesign = `
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=${encodeURIComponent(author)}&quote=${encodeURIComponent(quote)}&theme=dark&bg_color=0f4d36&author_color=d4af37&accent_color=d4af37">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=${encodeURIComponent(author)}&quote=${encodeURIComponent(quote)}&theme=dark&bg_color=004225&author_color=ffeb95&accent_color=c56a90">
 </p>
 `;
 
@@ -16,7 +18,7 @@ async function updateQuote() {
     let readmeContent = fs.readFileSync(readmePath, 'utf-8');
 
     readmeContent = readmeContent.replace(
-      /<!--STARTS_HERE_QUOTE_CARD-->(.|\n)*<!--ENDS_HERE_QUOTE_CARD-->/,
+      /(.|\n)*/,
       cardDesign
     );
 
