@@ -1,0 +1,29 @@
+name: Update Daily Quote
+
+on:
+  schedule:
+    # Kat-khdem kola 12h (Nass nhar)
+    - cron: '0 */12 * * *'
+  workflow_dispatch: # Bach t-khdemha manual ila bghiti t-jreb
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '16'
+          
+      - name: Update Quote
+        run: node update-quote.js
+        
+      - name: Commit and Push
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git add README.md
+          git commit -m "Update daily Quran quote" || exit 0
+          git push
