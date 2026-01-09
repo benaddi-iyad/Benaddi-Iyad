@@ -68,7 +68,9 @@
 
 <!--------------------------------------- Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ ------------------------------->
 
-<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
+<h2 align="center"> 
+  <img src="https://readme-typing-svg.demolab.com?font=&size=24&duration=4000&pause=1000&color=BDB60D&center=true&vCenter=true&width=435&lines=%F0%9D%92%AC%F0%9D%93%8A%F0%9D%93%87%F0%9D%92%B6%F0%9D%93%83%F0%9D%92%BE%F0%9D%92%B8+%F0%9D%92%B1%F0%9D%91%92%F0%9D%93%87%F0%9D%93%88%F0%9D%91%92+%F0%9D%91%9C%F0%9D%92%BB+%F0%9D%92%AF%F0%9D%92%BD%F0%9D%91%92+%F0%9D%92%9F%F0%9D%92%B6%F0%9D%93%8E">
+</h2>
 
 <p align="center">
     <img align="center" alt="coding" width="840" height="280" src="https://readme-daily-quotes.vercel.app/api?author=Zig%20Ziglar&quote=Motivation%20gets%20you%20going%20and%20habit%20gets%20you%20there.%20%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
