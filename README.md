@@ -1,11 +1,13 @@
+<!--------------------------------------- My Universe ------------------------------->
+
 <p align="center">
   <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Benaddi Iyad 👋 I'm a 🚀 Morocco developer 🚀 I ❤️ Happy Hardcore ❤️">
 </p>
 
-
+<!--------------------------------------- My Universe ------------------------------->
 
 <h2 align="center"> 
-  <img src="https://readme-typing-svg.demolab.com?font=Exo+2&size=24&duration=4000&pause=1000&color=C6CA1C&center=true&vCenter=true&width=300&height=25&lines=%F0%9D%91%80%F0%9D%93%8E+%F0%9D%90%BF%F0%9D%91%92%F0%9D%93%8D%F0%9D%92%BE%F0%9D%92%B8%F0%9D%91%9C%F0%9D%93%83"/>
+  <img src="https://readme-typing-svg.demolab.com?font=&size=24&duration=4000&pause=1000&color=BDB60D&center=true&vCenter=true&width=435&lines=%F0%9D%91%80%F0%9D%93%8E+%F0%9D%90%BF%F0%9D%91%92%F0%9D%93%8D%F0%9D%92%BE%F0%9D%92%B8%F0%9D%91%9C%F0%9D%93%83">
 </h2>
 
 <img align="right" alt="coding" width="530" height="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnZ3ZGYwY2Z6bjA1aDd2M211amlteGYweXkwN2x3dHVvMHZmNHk3OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MC6eSuC3yypCU/giphy.gif">
@@ -26,13 +28,12 @@
 
 - > 𝐌𝐲 𝐨𝐧𝐥𝐲 𝐜𝐨𝐦𝐩𝐞𝐭𝐢𝐭𝐢𝐨𝐧 𝐢𝐬 𝐭𝐡𝐞 𝐩𝐞𝐫𝐬𝐨𝐧 𝐈 𝐰𝐚𝐬 𝐲𝐞𝐬𝐭𝐞𝐫𝐝𝐚𝐲.
 
-
-
-
-
-
 <!--Languages and Tools Section-->       
-<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
+
+<h2 align="center"> 
+  <img src="https://readme-typing-svg.demolab.com?font=&size=24&duration=4000&pause=1000&color=BDB60D&center=true&vCenter=true&width=435&lines=%F0%9D%92%AF%F0%9D%91%92%F0%9D%92%B8%F0%9D%92%BD+%F0%9D%92%AE%F0%9D%93%89%F0%9D%92%B6%F0%9D%92%B8%F0%9D%93%80+%26+%F0%9D%90%B5%F0%9D%93%81%F0%9D%91%9C%F0%9D%91%94%F0%9D%91%92%F0%9D%93%88">
+</h2>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
@@ -42,52 +43,41 @@
 
 
 <h3 align="center">Building Strong Foundations</h3>
-<ul align="center">
+<ul align="left">
   
-  - > HTML, CSS, JavaScript, Git & GitHub 🧩
+    - > HTML, CSS, JavaScript, Git & GitHub 🧩
   
-  - > VS Code & Developer Tools 🛠️
+    - > VS Code & Developer Tools 🛠️
     
-  - > Python (Currently Learning) 🐍
+    - > Python (Currently Learning) 🐍
     
-  - > Computer Science Fundamentals 🧠
+    - > Computer Science Fundamentals 🧠
     
-  - > Cyber Security Basics 🛡️
-    
-  - > Learning Journey & Tech Blogs 🚀
+    - > Cyber Security Basics 🛡️
+      
+    - > Learning Journey & Tech Blogs 🚀
 
 </ul>
 
 <br />
 <br clear="both"/>
 
+<!--------------------------------------- My Universe ------------------------------->
 
 
 
+<!--------------------------------------- Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ ------------------------------->
 
+<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
 
+<p align="center">
+    <img align="center" alt="coding" width="840" height="280" src="https://readme-daily-quotes.vercel.app/api?author=Zig%20Ziglar&quote=Motivation%20gets%20you%20going%20and%20habit%20gets%20you%20there.%20%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+</p>
 
-<h1>ᴍʏ ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴꜱ</h1>
-<h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Exo+2&size=24&duration=4000&pause=1000&color=208227&center=true&vCenter=true&width=600&height=60&lines=%EF%BC%84%7B%F0%9D%90%80%F0%9D%90%88%7D+%C3%97+%7B%F0%9D%90%82%F0%9D%90%8B%F0%9D%90%8E%F0%9D%90%94%F0%9D%90%83%7D+%C3%97+%7B%F0%9D%90%81%F0%9D%90%8B%F0%9D%90%8E%F0%9D%90%82%F0%9D%90%8A%F0%9D%90%82%F0%9D%90%87%F0%9D%90%80%F0%9D%90%88%F0%9D%90%8D%7D+%3D+%E2%88%9E%F0%9D%90%92%F0%9D%90%8E%F0%9D%90%8B%F0%9D%90%94%F0%9D%90%93%F0%9D%90%88%F0%9D%90%8E%F0%9D%90%8D"/>
-</h2>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!--------------------------------------- My Universe ------------------------------->
 
 <h2 align="center"> 
-  <img src="https://readme-typing-svg.demolab.com?font=Exo+2&size=24&duration=4000&pause=1000&color=C6CA1C&center=true&vCenter=true&width=300&height=25&lines=%F0%9D%91%80%F0%9D%93%8E+%F0%9D%92%B0%F0%9D%93%83%F0%9D%92%BE%F0%9D%93%8B%F0%9D%91%92%F0%9D%93%87%F0%9D%93%88%F0%9D%91%92">
+  <img src="https://readme-typing-svg.demolab.com?font=&size=24&duration=4000&pause=1000&color=BDB60D&center=true&vCenter=true&width=435&lines=%F0%9D%91%80%F0%9D%93%8E+%F0%9D%92%B0%F0%9D%93%83%F0%9D%92%BE%F0%9D%93%8B%F0%9D%91%92%F0%9D%93%87%F0%9D%93%88%F0%9D%91%92">
 </h2>
 <div align="center">
   
@@ -99,12 +89,11 @@
   [![Whatsapp](https://img.icons8.com/?size=100&id=DUEq8l5qTqBE&format=png&color=000000)](mailto:abdelhamidelaali@gmail.com)
   [![X](https://img.icons8.com/?size=100&id=fJp7hepMryiw&format=png&color=000000)](mailto:abdelhamidelaali@gmail.com)
   [![Instagram](https://img.icons8.com/?size=100&id=nj0Uj45LGUYh&format=png&color=000000)](https://www.instagram.com/benaddi_iyad/)
-  [![Facebook](https://img.icons8.com/?size=100&id=jZ0kw76QEzJU&format=png&color=000000)](https://www.facebook.com/profile.php?id=61558405467003)  
+  [![Facebook](https://img.icons8.com/?size=100&id=jZ0kw76QEzJU&format=png&color=000000)](https://www.facebook.com/profile.php?id=61558405467003)
   
 </div>
 
-
-
+<!--------------------------------------- My Universe ------------------------------->
 
 <p align="center">
 <picture>
@@ -114,7 +103,6 @@
 </picture>
 </p>
 
-
-
+<!--------------------------------------- My Universe ------------------------------->
 
 <img align="center" alt="coding" width="1280" height="200" src=https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnl1YzVxNmYxZ3hodHQzOGQydjNma29uNXFtOTV5NGh2bXk1cjJ6NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zXmbOaTpbY6mA/giphy.gif>
