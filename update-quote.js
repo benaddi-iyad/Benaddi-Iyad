@@ -2,14 +2,11 @@ const fs = require('fs');
 
 async function updateQuote() {
   try {
-    // Kat-akhd l-quotes mn quotes.json
     const quotes = require('./quotes.json');
     const randomIndex = Math.floor(Math.random() * quotes.length);
     const { quote, author } = quotes[randomIndex];
 
-    // Alwan l-Quran: bg=DarkGreen, text=Gold
-    const cardDesign = `
-<p align="center">
+    const cardDesign = `<p align="center">
     <img src="https://readme-daily-quotes.vercel.app/api?author=${encodeURIComponent(author)}&quote=${encodeURIComponent(quote)}&theme=dark&bg_color=0f4d36&author_color=d4af37&accent_color=d4af37">
 </p>
 `;
@@ -17,12 +14,14 @@ async function updateQuote() {
     const readmePath = './README.md';
     let readmeContent = fs.readFileSync(readmePath, 'utf-8');
 
-    readmeContent = readmeContent.replace(
-      /(.|\n)*/,
+    // Had l-code ghadi y-bdl ghir dakchi li bin l-tags
+    const updatedReadme = readmeContent.replace(
+      /[\s\S]*/,
       cardDesign
     );
 
-    fs.writeFileSync(readmePath, readmeContent);
+    fs.writeFileSync(readmePath, updatedReadme);
+    console.log("Successfully updated the quote without deleting your content!");
   } catch (error) {
     console.error('Error updating quote:', error);
   }
