@@ -6,9 +6,9 @@ async function updateQuote() {
     const randomIndex = Math.floor(Math.random() * quotes.length);
     const { quote, author } = quotes[randomIndex];
 
-    // Zdna &rtl=true bach t-qad l-ktaba l-arbiya mn l-yamin
+    // St3mlo Readme Typing SVG hit s-pport dyalo l l-Arbiya hsen b-bezzaf
     const cardDesign = `<p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=${encodeURIComponent(author)}&quote=${encodeURIComponent(quote)}&theme=dark&bg_color=0f4d36&author_color=d4af37&accent_color=d4af37&rtl=true">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=d4af37&background=0f4d36&center=true&vCenter=true&width=840&height=150&lines=${encodeURIComponent(quote)};${encodeURIComponent(author)}">
 </p>
 `;
 
@@ -21,7 +21,7 @@ async function updateQuote() {
     );
 
     fs.writeFileSync(readmePath, updatedReadme);
-    console.log("Successfully updated with RTL support!");
+    console.log("Updated with Arabic-friendly Typing SVG!");
   } catch (error) {
     console.error('Error updating quote:', error);
   }
