@@ -1,6 +1,6 @@
 <!--------------------------------------- My Universe ------------------------------->
 <!--background-->
-![Abdelhamid's Banner Image](./Background.png)
+![Background Image](./Background.png)
 
 <!--------------------------------------- My Universe ------------------------------->
 
